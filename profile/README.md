@@ -12,7 +12,17 @@ This is the official GitHub organization for Ingenic. It serves as the central h
 
 - **官方网站**: https://www.ingenic.com.cn
 - **官方论坛**: http://forum.ingenic.com
+
+## 联系我们 / Contact Us
+
 - **联系邮箱**: github_official@ingenic.com
+- **支持邮箱**: support_hf@ingenic.com
+
+## 团队 / Teams
+
+- **MCU 业务线**：[MCU Team](https://github.com/orgs/ingenic-official/teams/mcu)
+- **AI 业务线**：[AI Team](https://github.com/orgs/ingenic-official/teams/ai)
+- **T 系列**：[T-Series Team](https://github.com/orgs/ingenic-official/teams/t-series)
 
 ## 主要项目 / Featured Projects
 
