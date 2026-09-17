@@ -21,7 +21,6 @@ This is the official GitHub organization for Ingenic. It serves as the central h
 ## 团队 / Teams
 
 - **MCU 业务线**：[MCU Team](https://github.com/orgs/ingenic-official/teams/mcu)
-- **AI 业务线**：[AI Team](https://github.com/orgs/ingenic-official/teams/ai)
 - **T 系列**：[T-Series Team](https://github.com/orgs/ingenic-official/teams/t-series)
 
 ## 主要项目 / Featured Projects
