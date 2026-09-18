@@ -10,8 +10,7 @@ This is the official GitHub organization for Ingenic. It serves as the central h
 
 ## 资源链接 / Resources
 
-- **海外站 / Global (EN)**: <https://en.ingenic.com.cn>
-- **国内站 / China (CN)**: <https://www.ingenic.com.cn>
+- **官方网站**: https://www.ingenic.com.cn
 - **官方论坛**: http://forum.ingenic.com
 
 ## 联系我们 / Contact Us
