@@ -2,7 +2,7 @@
 
 **Official GitHub organization of Ingenic Semiconductor Co., Ltd.**
 
-Ingenic is a leading fabless semiconductor company specializing in embedded CPU/SoC/MUC solutions and AIoT chips.
+Ingenic is a leading fabless semiconductor company specializing in embedded CPU/SoC/MCU solutions and AIoT chips.
 
 ## 关于我们 / About Us
 
@@ -18,10 +18,12 @@ This is the official GitHub organization for Ingenic. It serves as the central h
 - **联系邮箱**: github_official@ingenic.com
 - **支持邮箱**: support_hf@ingenic.com
 
-## 团队 / Teams
+## 业务线 / Business Lines
 
-- **MCU 业务线**：[MCU Team](https://github.com/orgs/ingenic-official/teams/mcu)
-- **T 系列**：[T-Series Team](https://github.com/orgs/ingenic-official/teams/t-series)
+- **T 系列**：[t-series](https://github.com/ingenic-official/t-series)：T-Series SDK, Linux kernel, documentation
+- **MCU**：[mcu](https://github.com/ingenic-official/mcu)：MCU SDK, examples, documentation
+- **C 系列**：[c-series](https://github.com/ingenic-official/c-series)：C-Series SDK, examples
+- **算法**：[algo](https://github.com/ingenic-official/algo)：AI algorithm models and tools
 
 ## 主要项目 / Featured Projects
 
@@ -29,5 +31,3 @@ This is the official GitHub organization for Ingenic. It serves as the central h
 
 ---
 *This organization is managed by Ingenic's official team.*
-
-
