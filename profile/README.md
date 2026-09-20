@@ -2,7 +2,7 @@
 
 **Official GitHub organization of Ingenic Semiconductor Co., Ltd.**
 
-Ingenic is a leading fabless semiconductor company specializing in embedded CPU/SoC solutions and AIoT chips.
+Ingenic is a leading fabless semiconductor company specializing in embedded CPU/SoC/MUC solutions and AIoT chips.
 
 ## 关于我们 / About Us
 
