@@ -31,4 +31,3 @@ This is the official GitHub organization for Ingenic. It serves as the central h
 *This organization is managed by Ingenic's official team.*
 
 
-怎么改
