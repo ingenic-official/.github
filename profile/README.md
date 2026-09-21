@@ -20,12 +20,12 @@ This is the official GitHub organization for Ingenic. It serves as the central h
 
 ## 业务线 / Business Lines
 
-| 业务线 | 仓库 | 内容 |
-|---|---|---|
-| T 系列 | [t-series](https://github.com/ingenic-official/t-series) | SDK, Linux kernel, documentation |
-| MCU | [MCU-series](https://github.com/ingenic-official/MCU-series) | SDK, examples, documentation |
-| C 系列 | [c-series](https://github.com/ingenic-official/c-series) | SDK, examples |
-| 算法 | [algo](https://github.com/ingenic-official/algo) | AI algorithm models and tools |
+| 业务线 | 技术标签 | 仓库 |
+| :--- | :--- | :--- |
+| T 系列 | | [t-series](https://github.com/ingenic-official/t-series) |
+| MCU | | [MCU-series](https://github.com/ingenic-official/MCU-series) |
+| C 系列 | | [c-series](https://github.com/ingenic-official/c-series) |
+| 算法 | | [algo](https://github.com/ingenic-official/algo) |
 
 ## 主要项目 / Featured Projects
 
