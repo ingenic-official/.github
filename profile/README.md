@@ -20,7 +20,7 @@ This is the official GitHub organization for Ingenic. It serves as the central h
 
 ## 业务线 / Business Lines
 
-| 业务线 | 技术标签 | 仓库 |
+| 业务线 | 技术栈 | 仓库 |
 | :--- | :--- | :--- |
 | T 系列 | | [t-series](https://github.com/ingenic-official/t-series) |
 | MCU | | [MCU-series](https://github.com/ingenic-official/MCU-series) |
